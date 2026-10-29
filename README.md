@@ -40,4 +40,3 @@ https://githubusercontent.com/Flicpix/free_vless_vpn_shadow_link/blob/main/sud.t
 * **Звезды Telegram / Другие способы:** Пишите в ЛС в Telegram.
 
 *Большое спасибо каждому за поддержку! Особая благодарность за ⭐ **звездочку** этому репозиторию!*
-](https://t.me/flikpix)
