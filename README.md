@@ -4,15 +4,15 @@
 
 ---
 
-### 📥 Ссылка на подписку (Subscription URL)
+### 📥 Ссылка на vless
 
-Скопируйте ссылку ниже и вставьте её в свой VPN-клиент (**Nekobox**, **v2rayN**, **Shadowrocket**, **v2rayNG** и др.) в раздел «Подписки» (Subscriptions):
+Все vless ключи вы найдете по ссылке ниже.
 
 ```text
-https://raw.githubusercontent.com/Flikpix/free_vless_vpn_shadow_link/main/vless.txt
+https://raw.github.com/Flikpix/free_vless_vpn_shadow_link/main/vless.txt
 ```
 
-> **💡 Совет:** Настройте в приложении автообновление подписки каждые 6–12 часов, чтобы всегда иметь доступ к актуальным и рабочим ключам.
+> **💡 Совет:** если vless ссылка перестала работать, зайдите на сайт за новыми ключами 
 
 ---
 
