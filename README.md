@@ -27,7 +27,7 @@ https://githubusercontent.com/Flicpix/free_vless_vpn_shadow_link/blob/main/sud.t
 
 Если у вас возникли проблемы с подключением, или вы хотите получить **выделенный персональный ключ** с повышенной скоростью и без ограничений, пишите мне напрямую:
 
-* **Telegram:** [https://t.me/flikpix]([<https://t.me/flikpix>])
+* **Telegram:** [https://t.me/flikpix](https://t.me/flikpix)
 
 ---
 
