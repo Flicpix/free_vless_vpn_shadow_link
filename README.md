@@ -17,8 +17,8 @@ https://githubusercontent.com/Flicpix/free_vless_vpn_shadow_link/blob/main/sud.t
 ---
 
 ### 🛠️ Рекомендуемые программы для подключения
-* **Windows / Android:** [Nekobox](https://github.com) или [v2rayN](https://github.com)
-* **iOS (iPhone):** [Shadowrocket](https://apple.com) или [Streisand](https://apple.com)
+* **Windows / Android:** [Nekobox] или [v2rayN]
+* **iOS (iPhone):** [Shadowrocket] или [Streisand]
 * **macOS:** [V2rayU] или FoXray
 
 ---
