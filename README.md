@@ -9,7 +9,7 @@
 Скопируйте ссылку ниже и вставьте её в свой VPN-клиент (**Nekobox**, **v2rayN**, **Shadowrocket**, **v2rayNG** и др.) в раздел «Подписки» (Subscriptions):
 
 ```text
-https://githubusercontent.com<ТВОЙ_НИК_НА_GITHUB>/<ИМЯ_РЕПОЗИТОРИЯ>/main/sub.txt
+https://github.com/Flicpix/free_vless_vpn_shadow_link/blob/main/sud.txt
 ```
 
 > **💡 Совет:** Настройте в приложении автообновление подписки каждые 6–12 часов, чтобы всегда иметь доступ к актуальным и рабочим ключам.
@@ -27,7 +27,7 @@ https://githubusercontent.com<ТВОЙ_НИК_НА_GITHUB>/<ИМЯ_РЕПОЗИ�
 
 Если у вас возникли проблемы с подключением, или вы хотите получить **выделенный персональный ключ** с повышенной скоростью и без ограничений, пишите мне напрямую:
 
-* **Telegram:** [https://t.me/flikpix]([https://t.me<fkikpix>])
+* **Telegram:** [https://t.me/flikpix]([<https://t.me/flikpix>])
 
 ---
 
