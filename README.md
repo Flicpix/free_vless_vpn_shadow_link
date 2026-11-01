@@ -35,7 +35,7 @@ https://raw.github.com/Flikpix/free_vless_vpn_shadow_link/main/vless.txt
 
 Этот сервер работает исключительно на личные средства. Любая ваша поддержка помогает оплачивать серверные мощности, расширять пропускную способность канала и держать проект живым!
 
-* **USDT (TRC-20):** `<АДРЕС_ТВОЕГО_USDT_КОШЕЛЬКА>`
+* **Сбер:** `https://messenger.sbrf.ru/sl/yXUzfWwhWUhWHdKas`
 * **TON (Tonkeeper/Telegram):** `<АДРЕС_ТВОЕГО_TON_КОШЕЛЬКА>`
 * **Звезды Telegram / Другие способы:** Пишите в ЛС в Telegram.
 
